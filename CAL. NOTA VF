@@ -6,3 +6,5 @@
 60 IF AUX>4 THEN VF = AUX
 70 IF AUX<=4 THEN VF = 4
 80 PRINT "VF = "; VF
+
+Alteração_teste
